@@ -64,6 +64,10 @@ const flashcards = [
         answer: "12"
     },
     {
+        question: "Quais as etapas do Rito de Custos?",
+        answer: "PEC, Recebimento da NC, Emissão do Empenho, Controle da NC, Recebimento do Material, Liquidação e Pagamento"
+    },
+    {
         question: "Ato de confirmação, pelo: - Diretor de Obras de Cooperação, da descarga do material: a. controlado do Acervo da DOC para todas as OM E Cnst; e b. não controlado do Acervo da DOC para demais OM",
         answer: "Homologação de Descarga"
     }
