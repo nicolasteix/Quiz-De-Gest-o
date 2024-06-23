@@ -61,7 +61,7 @@ const flashcards = [
     },
     {
         question: "As VTRS  do EB são identificadas com um umero de registro de quantos digitos?",
-        answer: "Conjunto de ações realizadas para transformar insumos em bens e serviços"
+        answer: "12"
     },
     {
         question: "Ato de confirmação, pelo: - Diretor de Obras de Cooperação, da descarga do material: a. controlado do Acervo da DOC para todas as OM E Cnst; e b. não controlado do Acervo da DOC para demais OM",
