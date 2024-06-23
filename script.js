@@ -68,6 +68,18 @@ const flashcards = [
         answer: "PEC, Recebimento da NC, Emissão do Empenho, Controle da NC, Recebimento do Material, Liquidação e Pagamento"
     },
     {
+        question: "Quais a 1ª missão da CEEM?",
+        answer: "fornecer eqp pesado de engenharia e operadores às companhias de engenharia de construção"
+    },
+    {
+        question: "Quais a 2ª missão da CEEM?",
+        answer: "Eventualmente realizar as atribuições de uma companhia de engenharia de construção"
+    },
+    {
+        question: "Quais a 3ª missão da CEEM?",
+        answer: "realizar a manutenção de campanha de todo o seu equipamento orgânico e fiscalizar seu emprego pelas subunidades"
+    },
+    {
         question: "Ato de confirmação, pelo: - Diretor de Obras de Cooperação, da descarga do material: a. controlado do Acervo da DOC para todas as OM E Cnst; e b. não controlado do Acervo da DOC para demais OM",
         answer: "Homologação de Descarga"
     }
