@@ -65,7 +65,7 @@ const flashcards = [
     },
     {
         question: "Quais as etapas do Rito de Custos?",
-        answer: "PEC, Recebimento da NC, Emissão do Empenho, Controle da NC, Recebimento do Material, Liquidação e Pagamento"
+        answer: "PEC, Recebimento da NC, Emissão do Empenho, Controle da NE, Recebimento do Material, Liquidação e Pagamento"
     },
     {
         question: "Quais a 1ª missão da CEEM?",
